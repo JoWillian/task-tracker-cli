@@ -24,7 +24,7 @@ No external libraries are required (uses native `argparse`, `json`, and `os` mod
 ### Installation
 #### Clone this repository:
 
-    git clone https://github.com/yourusername/task-tracker-cli.git
+    git clone https://github.com/JoWillian/task-tracker-cli.git
 #### Navigate to the project directory:
 
     cd task-tracker-cli
